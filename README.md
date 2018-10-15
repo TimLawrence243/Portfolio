@@ -12,6 +12,8 @@ A0X:
 
 All works starting with A0X (X being 1-6) are from my CSIS 2420 - Data Structures & Algorithms course, Spring 2018.  This course delved into creating many different programs (The A0X programs being the most comprehensive exercises) and creating them not only correctly, but as efficiently as possible, using very little processing power to achieve the greatest results.  All A0X assignments were created in a group setting with Dillon Embreus, another student in the class who I got along with well for the entire semester.  Together, we were able to create some really cool stuff.
 
+----------------------------------------------------
+
 A01 - Perc
 
 Percolation assignment
@@ -22,3 +24,24 @@ Recommended is to first run PercolationVisualizer.java, which will create a 50x5
      
 Reflection of assignment -- 
 A challenging first assignment, Percolation really started to nail home what Java is all about, and how powerful it can be.
+
+----------------------------------------------------
+
+A02 - Deque
+
+----------------------------------------------------
+
+A03 - Autocomplete
+
+----------------------------------------------------
+
+A04 - 8Puzzle
+
+----------------------------------------------------
+
+A05 - KdTrees
+
+----------------------------------------------------
+
+A06 - WordNet
+
