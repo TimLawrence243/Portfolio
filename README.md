@@ -7,7 +7,9 @@ Copyright 2018 Timothy Lawrence
 Hub for works I've done in school or in my free time.  Mainly Java, will specify if it's non-Java.
 
 Descriptions:
+
 A0X:
+
 All works starting with A0X (X being 1-6) are from my CSIS 2420 - Data Structures & Algorithms course, Spring 2018.  This course delved into creating many different programs (The A0X programs being the most comprehensive exercises) and creating them not only correctly, but as efficiently as possible, using very little processing power to achieve the greatest results.  All A0X assignments were created in a group setting with Dillon Embreus, another student in the class who I got along with well for the entire semester.  Together, we were able to create some really cool stuff.
 
   A01 - Perc
