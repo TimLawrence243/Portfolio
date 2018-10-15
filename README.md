@@ -50,6 +50,17 @@ This assignment was difficult for us, and we never fully finished; to this day i
 
 A04 - 8Puzzle
 
+Making an 8 Puzzle that solves itself
+
+You've probably seen 8 puzzles or 15 puzzles before.  They're the little puzzles with one open slot in a grid that you slide the other puzzle pieces into until solves.  We had to make a program that generates an 8 puzzle from a text file and solves it (or tells whether it is unsolvable) in the shortest amount of time possible.
+
+First, run SolverVisualizer.java.  This will open a GUI interface that shows an 8 puzzle being solved (To change what puzzle is being solved, go ahead and try changing line 133 from file5 to any of the other file variables listed directly above there).
+
+From there, check out PuzzleChecker.java. It takes a similar input, but will tell you how quickly the program solves it in hundredths of a second time (By default it's set to puzzle3x3-31.txt, a 3x3 puzzle that takes a minimum of 31 moves to solve.  The program will output that it takes that many moves, and how quickly it solves it).
+
+Reflection of assignment -- 
+This assignment was probably the most satisfying once we got it to work!  Watching how quickly the program can work through a solution by algorithms alone is pretty incredible.
+
 ----------------------------------------------------
 
 A05 - KdTrees
